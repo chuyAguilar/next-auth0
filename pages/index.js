@@ -10,8 +10,8 @@ export default function Home() {
         <h2>Login</h2>
       </a>
 
-      <a href='./Profile'>
-        <h2>Profile</h2>
+      <a href='/api/auth/logout'>
+        <h2>logout</h2>
       </a>
     </div>
   )
